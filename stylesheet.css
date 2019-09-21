@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*
+body {
+  background-image: linear-gradient(to right, lightblue, white);
+*/
+h1 {
+  color: white;
+  text-align: left;
+}
+
+
+body {
+  background-image: url("images/japanamevrot.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.heading {
+  
+}
+
+
